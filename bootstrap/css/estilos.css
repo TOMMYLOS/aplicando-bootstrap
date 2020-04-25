@@ -1,0 +1,22 @@
+body {
+    height: 800px;
+    /*color: green;
+    border: 5px solid orange;*/
+
+}
+html {
+    font-size: 13px;
+    /*color: green;
+    border: 5px solid orange;*/
+
+}
+
+/*.servicios>* {
+    
+    border: 1px solid black;
+}
+
+.servicios{
+border: 2px solid red;
+   /* flex-direction: column;*/
+/*}
